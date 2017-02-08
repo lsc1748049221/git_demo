@@ -13,7 +13,9 @@ import {
 } from 'react-native';
 
 var my = '老虎没打着!';
+
 var you = '罚你妹';
+
 
 var Main = require("./component/Main");
 export default class DouBanDemo extends Component {
