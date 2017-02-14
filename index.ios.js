@@ -18,6 +18,7 @@ var my = '老虎没打着!';
 var you = '罚你妹';
 
 var test = "123";
+var haha = "321";
 
 var Main = require("./component/Main");
 export default class DouBanDemo extends Component {
